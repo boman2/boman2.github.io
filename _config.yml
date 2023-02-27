@@ -12,13 +12,13 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "boman2 세컨블로그"
+title                    : "boman2 기술블로그"
 title_separator          : "|"
-subtitle                 : "공유합니다. "# site tagline that appears below site title in masthead
+subtitle                 : "기술블로그 및 찾기." # site tagline that appears below site title in masthead
 name                     : "bomankim"
 description              : "."
 url                      : "https://bomankim.github.io"
@@ -107,8 +107,8 @@ author:
   name             : "bomankim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "저는 깃헙 블로그를 운영하고, 셀러 커뮤니티를 운영합니다. "
-  location         : "Somewhere"
-  email            : "SeongNam, Korea"
+  location         : "SeongNam, Korea"
+  email            : ""
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
