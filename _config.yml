@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "boman2 블로그"
+title                    : "인공지능 블로그"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "bomankim"
+name                     : "오늘도 "
 description              : "."
 url                      : "https://boman2.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -104,18 +104,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "bomankim"
+  name             : "인공지능"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "저는 깃헙 블로그를 운영하고, 셀러 커뮤니티를 운영합니다. "
+  bio              : "github 블로그 & 셀러 커뮤니티 운영 "
   location         : "SeongNam, Korea"
   email            : ""
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:boman2@gmail.com"
+      # url: "mailto:boman2@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://boman2.github.io"
+      # url: ""
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
